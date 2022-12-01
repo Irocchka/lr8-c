@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Animal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Country>Scotland</Country>
+  <HideFromOtherAnimals>true</HideFromOtherAnimals>
+  <Name>Billy Bob Milly</Name>
+  <WhatAnimal>cold</WhatAnimal>
+</Animal>
